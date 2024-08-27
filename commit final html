@@ -10,10 +10,6 @@
 </head>
 <body>  
 
-    <section id="contact">
-        <h2>Contacto</h2>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdI6rHZuzih7a2qMkkL59gNueMcQQk3W8itUWyuY9eLAn1hnQ/viewform?usp=sf_link" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
-      </section>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
             <a class="navbar-brand" href="#inicio">Portafolio</a>
@@ -124,6 +120,11 @@
     <footer class="text-center my-4">
         <p>&copy; 2024 [Valentino Bono].</p>
     </footer>
+
+   <section id="contact">
+        <h2>Contacto</h2>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdI6rHZuzih7a2qMkkL59gNueMcQQk3W8itUWyuY9eLAn1hnQ/viewform?usp=sf_link" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+      </section>
 
 </body>
 </html>
