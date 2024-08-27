@@ -10,6 +10,7 @@
 </head>
 <body>  
 
+
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
             <a class="navbar-brand" href="#inicio">Portafolio</a>
@@ -80,7 +81,7 @@
 
     <section id="contacto" class="container my-4">
         <h2 class="text-center">Contacto</h2>
-        <form action="https://formspree.io/f/your-form-id" method="POST">
+        <form action="https://script.google.com/macros/s/AKfycbyLZtHce5L32y7FG6iOrNQLfnbdoZE4ed9fny4JhPFuNBgvgx9QqcpYP18ZgQs1AonMHQ/exec" method="POST">
           <label for="name">Nombre:</label>
           <input type="text" id="name" name="name" required>
           
@@ -112,9 +113,12 @@
             </a>
         </div>
 
+
+
     <footer class="text-center my-4">
         <p>&copy; 2024 [Valentino Bono].</p>
     </footer>
     
 </body>
 </html>
+
